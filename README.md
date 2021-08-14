@@ -1,8 +1,9 @@
--HealthCare Management System-
+# -HealthCare Management System-
+
 this project is an implementation for all oop topics using forms (jframe)
 save and read data from .txt files and search over it using scanner.
 
-full Description
+### full Description
 ➢ A system for managing the data of doctors and patients
 ❖ There are 2 types of patients: Emergency patient and normal patient
 ❖ Each Patient “normal and emergency” has ID, name, address, phone number, gender, symptoms, payment method and diagnosis.
