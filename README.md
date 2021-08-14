@@ -4,8 +4,8 @@ this project is an implementation for all oop topics using forms (jframe)
 save and read data from .txt files and search over it using scanner.
 
 ### full Description
-➢ A system for managing the data of doctors and patients
-❖ There are 2 types of patients: Emergency patient and normal patient
+➢ A system for managing the data of doctors and patients.
+❖ There are 2 types of patients: Emergency patient and normal patient.
 ❖ Each Patient “normal and emergency” has ID, name, address, phone number, gender, symptoms, payment method and diagnosis.
 ❖ In the case of emergency patient there is room number.
 ❖ Each doctor has ID, name, address, phone number, and specialty in medicine.
